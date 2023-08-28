@@ -1,2 +1,2 @@
 # blog
-python-blog
+java-blog
